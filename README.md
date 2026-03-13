@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="IMG_2628%20%281%29.jpg" width="200"/>
+</p>
+
+
+
 # Hi, I'm Dylan Sinykin 👋
 
 **Software Engineering student at Iowa State University**  
