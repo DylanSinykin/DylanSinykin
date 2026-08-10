@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Dylan Sinykin.jpg" width="200"/>
+  <img src="Dylan Sinykin.JPG" width="200"/>
 </p>
 
 
